@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T16:03:57.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="S00fsV34H1vsQMyiV57o" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T16:04:33.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="2b7nBP027ZSDRReBvckJ" version="16.5.6" type="github">
   <diagram id="pb4SdE6-r2ZsqCLpavfr" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry x="220" y="385" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KNncjrBmfiQTa96TtwuM-40" value="&lt;ul&gt;&lt;li&gt;Sắp xếp theo tên&lt;/li&gt;&lt;li&gt;Tìm kiếm theo tên&lt;/li&gt;&lt;li&gt;Thay đổi số cột hiển thị&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="193" y="140" width="170" height="80" as="geometry" />
+          <mxGeometry x="193" y="140" width="157" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KNncjrBmfiQTa96TtwuM-41" value="&lt;ul&gt;&lt;li&gt;Sắp xếp theo mã số&amp;nbsp;&lt;/li&gt;&lt;li&gt;Sắp xếp theo mức lương&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="215" y="465" width="150" height="80" as="geometry" />
